@@ -15,6 +15,7 @@ A dynamic web interface that connects to the Apify platform, fetches actors with
 
 Clone or download the project
 git clone https://github.com/arnavgupta007/apify-platform-integration
+
 cd apify-platform-integration
 
 Setup backend
@@ -80,13 +81,16 @@ Simply open frontend/index.html in your browser
 ## 📸 Working Flow Demonstration
 
 ### Step 1: Authentication
-![Authentication](<img width="1858" height="898" alt="image" src="https://github.com/user-attachments/assets/3690f83b-8aed-4bc3-b5fd-b5b3345302bb" />
-)
+<img width="1858" height="898" alt="image" src="https://github.com/user-attachments/assets/d7fb33f9-5512-4e53-bc81-f5b5809f7bba" />
+
 - Enter API key → Connect to real Apify account
+- 
 ### Step 2: Actor Selection
 - Shows personal + public actors → Dynamic loading from your account
+
 ### Step 3: Configuration
 - Auto-generated form from actor schema → Fill parameters
+
 ### Step 4: Execution & Results
 - Real-time execution → Dataset stored in your Apify account
 
@@ -95,24 +99,37 @@ Simply open frontend/index.html in your browser
 **You'll know it's working when you see:**
 {
 "🎉 REAL Run Information": {
+
 "Run ID": "actual_run_id_here",
+
 "Status": "SUCCEEDED",
+
 "Dataset ID": "actual_dataset_id",
+
 "Items Found": 10
+
 }
 }
+
 **Check your Apify Console:** [console.apify.com/datasets](https://console.apify.com/datasets)
 
 ## 🔧 Project Structure
 apify-platform-integration/
+
 ├── backend/
+
 │ ├── server.js # Express proxy server
+
 │ ├── package.json # Dependencies
+
 │ └── .env.example
+
 └── frontend/
+
 └── index.html # Complete web app
 
 ## 🐛 Quick Fixes
+
 
 **Server won't start?**
 Try different port
