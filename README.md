@@ -14,7 +14,7 @@ A dynamic web interface that connects to the Apify platform, fetches actors with
 ### 1. Install and Run
 
 Clone or download the project
-git clone https://github.com/yourusername/apify-platform-integration.git
+git clone https://github.com/arnavgupta007/apify-platform-integration
 cd apify-platform-integration
 
 Setup backend
