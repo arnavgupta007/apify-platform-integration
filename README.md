@@ -81,7 +81,8 @@ Simply open frontend/index.html in your browser
 ## 📸 Working Flow Demonstration
 
 ### Step 1: Authentication
-<img width="1858" height="898" alt="image" src="https://github.com/user-attachments/assets/d7fb33f9-5512-4e53-bc81-f5b5809f7bba" />
+<img width="1882" height="923" alt="image" src="https://github.com/user-attachments/assets/35a31935-dbc9-4f99-9e6f-2e6867cd87d8" />
+
 
 - Enter API key → Connect to real Apify account
 - 
@@ -97,6 +98,7 @@ Simply open frontend/index.html in your browser
 ## ✅ Success Verification
 
 **You'll know it's working when you see:**
+
 {
 "🎉 REAL Run Information": {
 
