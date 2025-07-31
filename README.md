@@ -80,19 +80,14 @@ Simply open frontend/index.html in your browser
 ## 📸 Working Flow Demonstration
 
 ### Step 1: Authentication
-![Authentication](https://github.com/yourusername/project/blob/main/screenshots/auth.png)
+![Authentication](<img width="1858" height="898" alt="image" src="https://github.com/user-attachments/assets/3690f83b-8aed-4bc3-b5fd-b5b3345302bb" />
+)
 - Enter API key → Connect to real Apify account
-
 ### Step 2: Actor Selection
-![Actor Selection](https://github.com/yourusername/project/blob/main/screenshots/actors.png)
 - Shows personal + public actors → Dynamic loading from your account
-
 ### Step 3: Configuration
-![Configuration](https://github.com/yourusername/project/blob/main/screenshots/config.png)
 - Auto-generated form from actor schema → Fill parameters
-
 ### Step 4: Execution & Results
-![Results](https://github.com/yourusername/project/blob/main/screenshots/results.png)
 - Real-time execution → Dataset stored in your Apify account
 
 ## ✅ Success Verification
